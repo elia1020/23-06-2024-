@@ -36,7 +36,7 @@ table {
     background-color:#ccc;
     border-collapse: collapse;
     width: 100%;
-    max-width: 30px; /* הוספתי מקסימום רוחב */
+    max-width: 30px; 
 }
 td {
     border: 1px solid #ddd;
@@ -46,6 +46,7 @@ td {
 }
 /* body{
     background-image: url("67-1.jpg");
+/* פה עשיתי מי רקע כזה */
 
 } */
 #b12{
@@ -62,21 +63,21 @@ right: 10%;
 
 }
 .button {
-  background-color: #4c7aaf; /* צבע רקע */
-  border: none; /* ללא מסגרת */
-  color: white; /* צבע טקסט */
-  padding: 10px 20px; /* רווחים בתוך הכפתור */
-  text-align: center; /* מרכוז את הטקסט בתוך הכפתור */
-  text-decoration: none; /* ללא קו תחתון */
-  display: inline-block; /* הצגה כבלוק נכנס */
-  font-size: 16px; /* גודל הגופן */
-  margin: 4px 2px; /* מרווח בין הכפתורים */
-  cursor: pointer; /* סמן מצב שובה תשומת לב */
-  border-radius: 8px; /* פינות מעוגלות */
+  background-color: #4c7aaf;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 16px; 
+  margin: 4px 2px; 
+  cursor: pointer; 
+  border-radius: 8px; 
 }
 
 .button:hover {
-  background-color: #4594a0; /* צבע רקע בעת העכברה */
+  background-color: #4594a0; 
 }
 
 
